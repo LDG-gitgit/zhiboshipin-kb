@@ -1,0 +1,36 @@
+{
+  "version": "2026-11-2",
+  "generatedAt": "2026-11-11T14:12:40.286Z",
+  "files": [
+    {
+      "name": "knowledge.json",
+      "sha256": "be23647faf18d185a620d661ec8b73c719bd588870b86d011b0d2dc46e3fcbbe",
+      "size": 207494
+    },
+    {
+      "name": "life.json",
+      "sha256": "4797860c4597f6a8c252b5bb3742e361fd195ce2670067baf5355110c68c91f0",
+      "size": 85725
+    },
+    {
+      "name": "story.json",
+      "sha256": "e4560fac8f2d12d7d54a867782e8059319bd073d524d6edb0fcbf3e62322a766",
+      "size": 70619
+    },
+    {
+      "name": "qa.json",
+      "sha256": "2eb93b2e106c85a19d4d94433b4b3efa0db28bcfd88e13bb50006d702bfd1f5c",
+      "size": 76779
+    },
+    {
+      "name": "punch.json",
+      "sha256": "44f2f7bd0bef802f344fd60d2e26254ddc1285339c57972c992f282b482bef9d",
+      "size": 27993
+    },
+    {
+      "name": "intel.json",
+      "sha256": "760fa700c0e3abfce4dc1707d36295a8945aa36c3904cfa81ea81ed105a83cc0",
+      "size": 36105
+    }
+  ]
+}
