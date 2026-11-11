@@ -1,11 +1,11 @@
 {
-  "version": "2026-11-2",
-  "generatedAt": "2026-11-11T14:38:00.097Z",
+  "version": "2026-11-4",
+  "generatedAt": "2026-11-11T15:01:01.874Z",
   "files": [
     {
       "name": "knowledge.json",
-      "sha256": "1b88e60a86de87e7c080c3123010c6670816d68da3e7394db05e7495c67eacda",
-      "size": 216907
+      "sha256": "15f811af45b861fbb0f0d5fc88269b931c21a4cd7c8a48b3a1a480e8c33e4c53",
+      "size": 830978
     },
     {
       "name": "life.json",
