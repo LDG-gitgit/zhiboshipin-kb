@@ -1,16 +1,16 @@
 {
   "version": "2026-11-4",
-  "generatedAt": "2026-11-11T15:01:01.874Z",
+  "generatedAt": "2026-11-11T15:39:35.790Z",
   "files": [
     {
       "name": "knowledge.json",
-      "sha256": "15f811af45b861fbb0f0d5fc88269b931c21a4cd7c8a48b3a1a480e8c33e4c53",
-      "size": 830978
+      "sha256": "e7b9d4f5b322c1b76e8f9b44ef1e49dc8257e7cb53f9cbde4f76d6472b23df59",
+      "size": 830981
     },
     {
       "name": "life.json",
-      "sha256": "71c01b189db522245737f8b4f32ca3aac1ceb6e945c8a21ad47c9edda2d9158d",
-      "size": 85722
+      "sha256": "8fca6854d48ff803ffda259ea963aadde8350d249d87931c73779d34ddd9e6e0",
+      "size": 85712
     },
     {
       "name": "story.json",
