@@ -1,11 +1,11 @@
 {
-  "version": "2026-11-4",
-  "generatedAt": "2026-11-11T15:39:35.790Z",
+  "version": "2026-11-8",
+  "generatedAt": "2026-11-19T23:14:46.173Z",
   "files": [
     {
       "name": "knowledge.json",
-      "sha256": "e7b9d4f5b322c1b76e8f9b44ef1e49dc8257e7cb53f9cbde4f76d6472b23df59",
-      "size": 830981
+      "sha256": "47033f4a2135f944ed7fc1bc111b756248ad9998413348fe309c9bfbc4bf0944",
+      "size": 867792
     },
     {
       "name": "life.json",
@@ -19,13 +19,13 @@
     },
     {
       "name": "qa.json",
-      "sha256": "2eb93b2e106c85a19d4d94433b4b3efa0db28bcfd88e13bb50006d702bfd1f5c",
-      "size": 76779
+      "sha256": "9afd69d4b35bf79471b461ce7083f7a9d527338d596c0683f81f55bf00ac9395",
+      "size": 80569
     },
     {
       "name": "punch.json",
-      "sha256": "44f2f7bd0bef802f344fd60d2e26254ddc1285339c57972c992f282b482bef9d",
-      "size": 27993
+      "sha256": "221d6b49b757d2730deffc068d7256b21982ee4a234b47e1c0a18757a486ba69",
+      "size": 29781
     },
     {
       "name": "intel.json",
